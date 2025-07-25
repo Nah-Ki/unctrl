@@ -10,9 +10,6 @@
 
 1v1. AI swarms. Hardcore formations. No RNG—just skill.
 
-If you’re here for cute, close the damn terminal.  
-This one’s for the cold-blooded.
-
 ---
 
 ## ⚙ Tech Stack
