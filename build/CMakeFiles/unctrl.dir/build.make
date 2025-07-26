@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/naqui/unctrl
+CMAKE_SOURCE_DIR = /home/naqui/project/unctrl
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/naqui/unctrl/build
+CMAKE_BINARY_DIR = /home/naqui/project/unctrl/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/unctrl.dir/depend.make
@@ -73,46 +73,46 @@ CMakeFiles/unctrl.dir/codegen:
 .PHONY : CMakeFiles/unctrl.dir/codegen
 
 CMakeFiles/unctrl.dir/src/main.cpp.o: CMakeFiles/unctrl.dir/flags.make
-CMakeFiles/unctrl.dir/src/main.cpp.o: /home/naqui/unctrl/src/main.cpp
+CMakeFiles/unctrl.dir/src/main.cpp.o: /home/naqui/project/unctrl/src/main.cpp
 CMakeFiles/unctrl.dir/src/main.cpp.o: CMakeFiles/unctrl.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/naqui/unctrl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/unctrl.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/unctrl.dir/src/main.cpp.o -MF CMakeFiles/unctrl.dir/src/main.cpp.o.d -o CMakeFiles/unctrl.dir/src/main.cpp.o -c /home/naqui/unctrl/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/naqui/project/unctrl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/unctrl.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/unctrl.dir/src/main.cpp.o -MF CMakeFiles/unctrl.dir/src/main.cpp.o.d -o CMakeFiles/unctrl.dir/src/main.cpp.o -c /home/naqui/project/unctrl/src/main.cpp
 
 CMakeFiles/unctrl.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/unctrl.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/naqui/unctrl/src/main.cpp > CMakeFiles/unctrl.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/naqui/project/unctrl/src/main.cpp > CMakeFiles/unctrl.dir/src/main.cpp.i
 
 CMakeFiles/unctrl.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/unctrl.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/naqui/unctrl/src/main.cpp -o CMakeFiles/unctrl.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/naqui/project/unctrl/src/main.cpp -o CMakeFiles/unctrl.dir/src/main.cpp.s
 
 CMakeFiles/unctrl.dir/src/game.cpp.o: CMakeFiles/unctrl.dir/flags.make
-CMakeFiles/unctrl.dir/src/game.cpp.o: /home/naqui/unctrl/src/game.cpp
+CMakeFiles/unctrl.dir/src/game.cpp.o: /home/naqui/project/unctrl/src/game.cpp
 CMakeFiles/unctrl.dir/src/game.cpp.o: CMakeFiles/unctrl.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/naqui/unctrl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/unctrl.dir/src/game.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/unctrl.dir/src/game.cpp.o -MF CMakeFiles/unctrl.dir/src/game.cpp.o.d -o CMakeFiles/unctrl.dir/src/game.cpp.o -c /home/naqui/unctrl/src/game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/naqui/project/unctrl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/unctrl.dir/src/game.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/unctrl.dir/src/game.cpp.o -MF CMakeFiles/unctrl.dir/src/game.cpp.o.d -o CMakeFiles/unctrl.dir/src/game.cpp.o -c /home/naqui/project/unctrl/src/game.cpp
 
 CMakeFiles/unctrl.dir/src/game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/unctrl.dir/src/game.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/naqui/unctrl/src/game.cpp > CMakeFiles/unctrl.dir/src/game.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/naqui/project/unctrl/src/game.cpp > CMakeFiles/unctrl.dir/src/game.cpp.i
 
 CMakeFiles/unctrl.dir/src/game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/unctrl.dir/src/game.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/naqui/unctrl/src/game.cpp -o CMakeFiles/unctrl.dir/src/game.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/naqui/project/unctrl/src/game.cpp -o CMakeFiles/unctrl.dir/src/game.cpp.s
 
 CMakeFiles/unctrl.dir/src/player.cpp.o: CMakeFiles/unctrl.dir/flags.make
-CMakeFiles/unctrl.dir/src/player.cpp.o: /home/naqui/unctrl/src/player.cpp
+CMakeFiles/unctrl.dir/src/player.cpp.o: /home/naqui/project/unctrl/src/player.cpp
 CMakeFiles/unctrl.dir/src/player.cpp.o: CMakeFiles/unctrl.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/naqui/unctrl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/unctrl.dir/src/player.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/unctrl.dir/src/player.cpp.o -MF CMakeFiles/unctrl.dir/src/player.cpp.o.d -o CMakeFiles/unctrl.dir/src/player.cpp.o -c /home/naqui/unctrl/src/player.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/naqui/project/unctrl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/unctrl.dir/src/player.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/unctrl.dir/src/player.cpp.o -MF CMakeFiles/unctrl.dir/src/player.cpp.o.d -o CMakeFiles/unctrl.dir/src/player.cpp.o -c /home/naqui/project/unctrl/src/player.cpp
 
 CMakeFiles/unctrl.dir/src/player.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/unctrl.dir/src/player.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/naqui/unctrl/src/player.cpp > CMakeFiles/unctrl.dir/src/player.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/naqui/project/unctrl/src/player.cpp > CMakeFiles/unctrl.dir/src/player.cpp.i
 
 CMakeFiles/unctrl.dir/src/player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/unctrl.dir/src/player.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/naqui/unctrl/src/player.cpp -o CMakeFiles/unctrl.dir/src/player.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/naqui/project/unctrl/src/player.cpp -o CMakeFiles/unctrl.dir/src/player.cpp.s
 
 # Object files for target unctrl
 unctrl_OBJECTS = \
@@ -129,7 +129,7 @@ unctrl: CMakeFiles/unctrl.dir/src/player.cpp.o
 unctrl: CMakeFiles/unctrl.dir/build.make
 unctrl: CMakeFiles/unctrl.dir/compiler_depend.ts
 unctrl: CMakeFiles/unctrl.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/naqui/unctrl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable unctrl"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/naqui/project/unctrl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable unctrl"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/unctrl.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -141,6 +141,6 @@ CMakeFiles/unctrl.dir/clean:
 .PHONY : CMakeFiles/unctrl.dir/clean
 
 CMakeFiles/unctrl.dir/depend:
-	cd /home/naqui/unctrl/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/naqui/unctrl /home/naqui/unctrl /home/naqui/unctrl/build /home/naqui/unctrl/build /home/naqui/unctrl/build/CMakeFiles/unctrl.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/naqui/project/unctrl/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/naqui/project/unctrl /home/naqui/project/unctrl /home/naqui/project/unctrl/build /home/naqui/project/unctrl/build /home/naqui/project/unctrl/build/CMakeFiles/unctrl.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/unctrl.dir/depend
 

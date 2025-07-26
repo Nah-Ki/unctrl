@@ -1,6 +1,7 @@
-CMakeFiles/unctrl.dir/src/game.cpp.o: /home/naqui/unctrl/src/game.cpp \
- /usr/include/stdc-predef.h /home/naqui/unctrl/include/game.hpp \
- /home/naqui/unctrl/include/player.hpp /usr/include/curses.h \
+CMakeFiles/unctrl.dir/src/game.cpp.o: \
+ /home/naqui/project/unctrl/src/game.cpp /usr/include/stdc-predef.h \
+ /home/naqui/project/unctrl/include/game.hpp \
+ /home/naqui/project/unctrl/include/player.hpp /usr/include/curses.h \
  /usr/include/ncurses_dll.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/libc-header-start.h \

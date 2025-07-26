@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/naqui/unctrl/src/game.cpp" "CMakeFiles/unctrl.dir/src/game.cpp.o" "gcc" "CMakeFiles/unctrl.dir/src/game.cpp.o.d"
-  "/home/naqui/unctrl/src/main.cpp" "CMakeFiles/unctrl.dir/src/main.cpp.o" "gcc" "CMakeFiles/unctrl.dir/src/main.cpp.o.d"
-  "/home/naqui/unctrl/src/player.cpp" "CMakeFiles/unctrl.dir/src/player.cpp.o" "gcc" "CMakeFiles/unctrl.dir/src/player.cpp.o.d"
+  "/home/naqui/project/unctrl/src/game.cpp" "CMakeFiles/unctrl.dir/src/game.cpp.o" "gcc" "CMakeFiles/unctrl.dir/src/game.cpp.o.d"
+  "/home/naqui/project/unctrl/src/main.cpp" "CMakeFiles/unctrl.dir/src/main.cpp.o" "gcc" "CMakeFiles/unctrl.dir/src/main.cpp.o.d"
+  "/home/naqui/project/unctrl/src/player.cpp" "CMakeFiles/unctrl.dir/src/player.cpp.o" "gcc" "CMakeFiles/unctrl.dir/src/player.cpp.o.d"
   "" "unctrl" "gcc" "CMakeFiles/unctrl.dir/link.d"
   )
 

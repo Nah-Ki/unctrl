@@ -11,10 +11,22 @@ void Player::draw() {
 
 void Player::handleInput(int ch) {
     switch(ch) {
-        case KEY_UP:    y--; break;
-        case KEY_DOWN:  y++; break;
-        case KEY_LEFT:  x--; break;
-        case KEY_RIGHT: x++; break;
+        case 'w':
+        case KEY_UP:
+            y--;
+            break;
+        case 's':
+        case KEY_DOWN:
+            y++;
+            break;
+        case 'a':
+        case KEY_LEFT:
+            x--;
+            break;
+        case 'd':
+        case KEY_RIGHT:
+            x++;
+            break;
     }
 }
 

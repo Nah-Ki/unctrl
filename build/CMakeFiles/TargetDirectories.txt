@@ -1,3 +1,3 @@
-/home/naqui/unctrl/build/CMakeFiles/unctrl.dir
-/home/naqui/unctrl/build/CMakeFiles/edit_cache.dir
-/home/naqui/unctrl/build/CMakeFiles/rebuild_cache.dir
+/home/naqui/project/unctrl/build/CMakeFiles/unctrl.dir
+/home/naqui/project/unctrl/build/CMakeFiles/edit_cache.dir
+/home/naqui/project/unctrl/build/CMakeFiles/rebuild_cache.dir
