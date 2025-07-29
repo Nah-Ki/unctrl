@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/unctrl.dir/link.d CMakeFiles/unctrl.dir/src/main.cpp.o CMakeFiles/unctrl.dir/src/game.cpp.o CMakeFiles/unctrl.dir/src/player.cpp.o -o unctrl  -lncurses
