@@ -9,7 +9,7 @@
 - **Language:** C++ 
 - **Terminal Graphics:** `ncurses`
 - **Multiplayer:** TCP Sockets 
-- **Build Tool:** `Make`
+- **Build Tool:** `Cmake`
 - **Platform:** Linux 
 - **Editor of Choice:** Neovim 
 ---
