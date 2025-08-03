@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/server.dir/link.d CMakeFiles/server.dir/src/server/server_main.cpp.o CMakeFiles/server.dir/src/server/net.cpp.o CMakeFiles/server.dir/src/shared/game.cpp.o CMakeFiles/server.dir/src/shared/player.cpp.o CMakeFiles/server.dir/src/shared/game_state.cpp.o -o bin/server

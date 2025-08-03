@@ -1,7 +1,5 @@
-#client
-
-#include "../shared/net.hpp"
-#include "../shared/game_state.hpp"
+#include "game.hpp"
+#include "game_state.hpp"
 #include <iostream>
 #include <termios.h>
 #include <unistd.h>

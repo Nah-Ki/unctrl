@@ -1,0 +1,4 @@
+/home/naqui/project/unctrl/build/CMakeFiles/client.dir
+/home/naqui/project/unctrl/build/CMakeFiles/server.dir
+/home/naqui/project/unctrl/build/CMakeFiles/edit_cache.dir
+/home/naqui/project/unctrl/build/CMakeFiles/rebuild_cache.dir
