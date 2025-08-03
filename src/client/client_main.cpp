@@ -1,4 +1,5 @@
 #include "game.hpp"
+#include "net.hpp"
 #include "game_state.hpp"
 #include <iostream>
 #include <termios.h>

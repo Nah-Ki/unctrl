@@ -1,29 +1,22 @@
-// client/net.cpp
+// src/client/net.cpp
 
 #include <iostream>
 #include <arpa/inet.h>
 #include <cstring>
 #include <unistd.h>
-#include "net.hpp"  // Correct header include
+#include "net.hpp"
 
 int sockfd;
 sockaddr_in serverAddr;
 
 bool net_init_client(const char* server_ip, int port) {
     sockfd = socket(AF_INET, SOCK_DGRAM, 0);
-    if (sockfd < 0) {
-        perror("socket creation failed");
-        return false;
-    }
+    if (sockfd < 0) return false;
 
     memset(&serverAddr, 0, sizeof(serverAddr));
     serverAddr.sin_family = AF_INET;
     serverAddr.sin_port = htons(port);
-
-    if (inet_pton(AF_INET, server_ip, &serverAddr.sin_addr) <= 0) {
-        perror("invalid server IP");
-        return false;
-    }
+    inet_pton(AF_INET, server_ip, &serverAddr.sin_addr);
 
     return true;
 }
