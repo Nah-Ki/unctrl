@@ -1,8 +1,3 @@
-Got it 🚀 Let’s make a **clean, professional README.md** for your game project **unctrl**.
-This will set a good first impression for recruiters, contributors, and players.
-
-Here’s a solid draft (we can refine later once features expand):
-
 ````markdown
 # 🎮 unctrl
 
