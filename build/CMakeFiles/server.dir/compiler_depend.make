@@ -301,6 +301,52 @@ CMakeFiles/server.dir/src/server/server_main.cpp.o: /home/naqui/project/unctrl/s
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdint.h
 
+bin/server: /usr/lib/Scrt1.o \
+  /usr/lib/crti.o \
+  /usr/lib/crtn.o \
+  /usr/lib/libc.so \
+  /usr/lib/libgcc_s.so \
+  /usr/lib/libgcc_s.so.1 \
+  /usr/lib/libm.so \
+  /usr/lib/libsfml-network.so \
+  /usr/lib/libsfml-system.so \
+  /usr/lib/libstdc++.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a \
+  /usr/lib/ld-linux-x86-64.so.2 \
+  /usr/lib/libc.so.6 \
+  /usr/lib/libc_nonshared.a \
+  /usr/lib/libm.so.6 \
+  /usr/lib/libmvec.so.1 \
+  CMakeFiles/server.dir/src/server/server_main.cpp.o
+
+
+/usr/lib/libmvec.so.1:
+
+/usr/lib/libm.so.6:
+
+/usr/lib/libc_nonshared.a:
+
+/usr/lib/libc.so.6:
+
+/usr/lib/ld-linux-x86-64.so.2:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o:
+
+/usr/lib/libsfml-network.so:
+
+/usr/lib/libm.so:
+
+/usr/lib/libgcc_s.so.1:
+
+/usr/lib/crti.o:
+
+/usr/lib/Scrt1.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdint.h:
 
@@ -319,6 +365,8 @@ CMakeFiles/server.dir/src/server/server_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/wctype.h:
 
 /usr/include/sched.h:
+
+/usr/lib/libstdc++.so:
 
 /usr/include/locale.h:
 
@@ -430,6 +478,8 @@ CMakeFiles/server.dir/src/server/server_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/bits/stl_algobase.h:
 
+/usr/lib/libc.so:
+
 /usr/include/bits/pthreadtypes.h:
 
 /usr/include/c++/15.2.1/bits/atomic_base.h:
@@ -448,6 +498,8 @@ CMakeFiles/server.dir/src/server/server_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/bits/fs_fwd.h:
 
+/usr/lib/crtn.o:
+
 /usr/include/c++/15.2.1/bits/functional_hash.h:
 
 /usr/include/asm/types.h:
@@ -457,6 +509,8 @@ CMakeFiles/server.dir/src/server/server_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/SFML/System/Utf.hpp:
 
 /usr/include/assert.h:
+
+/usr/lib/libsfml-system.so:
 
 /usr/include/c++/15.2.1/cstdio:
 
@@ -844,7 +898,11 @@ CMakeFiles/server.dir/src/server/server_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/memory:
 
+CMakeFiles/server.dir/src/server/server_main.cpp.o:
+
 /usr/include/c++/15.2.1/concepts:
+
+/usr/lib/libgcc_s.so:
 
 /usr/include/c++/15.2.1/cstddef:
 

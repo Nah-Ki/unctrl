@@ -365,6 +365,117 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdint.h
 
+bin/client: /usr/lib/Scrt1.o \
+  /usr/lib/crti.o \
+  /usr/lib/crtn.o \
+  /usr/lib/libc.so \
+  /usr/lib/libgcc_s.so \
+  /usr/lib/libgcc_s.so.1 \
+  /usr/lib/libm.so \
+  /usr/lib/libsfml-graphics.so \
+  /usr/lib/libsfml-network.so \
+  /usr/lib/libsfml-system.so \
+  /usr/lib/libsfml-window.so \
+  /usr/lib/libstdc++.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a \
+  /usr/lib/ld-linux-x86-64.so.2 \
+  /usr/lib/libX11.so.6 \
+  /usr/lib/libXau.so.6 \
+  /usr/lib/libXcursor.so.1 \
+  /usr/lib/libXdmcp.so.6 \
+  /usr/lib/libXext.so.6 \
+  /usr/lib/libXfixes.so.3 \
+  /usr/lib/libXi.so.6 \
+  /usr/lib/libXrandr.so.2 \
+  /usr/lib/libXrender.so.1 \
+  /usr/lib/libbrotlicommon.so.1 \
+  /usr/lib/libbrotlidec.so.1 \
+  /usr/lib/libbz2.so.1.0 \
+  /usr/lib/libc.so.6 \
+  /usr/lib/libc_nonshared.a \
+  /usr/lib/libcap.so.2 \
+  /usr/lib/libfreetype.so.6 \
+  /usr/lib/libglib-2.0.so.0 \
+  /usr/lib/libgraphite2.so.3 \
+  /usr/lib/libharfbuzz.so.0 \
+  /usr/lib/libm.so.6 \
+  /usr/lib/libmvec.so.1 \
+  /usr/lib/libpcre2-8.so.0 \
+  /usr/lib/libpng16.so.16 \
+  /usr/lib/libudev.so.1 \
+  /usr/lib/libxcb.so.1 \
+  /usr/lib/libz.so.1 \
+  /usr/lib32/libX11.so.6 \
+  /usr/lib32/libXau.so.6 \
+  /usr/lib32/libXdmcp.so.6 \
+  /usr/lib32/libXext.so.6 \
+  /usr/lib32/libbrotlicommon.so.1 \
+  /usr/lib32/libbrotlidec.so.1 \
+  /usr/lib32/libbz2.so.1.0 \
+  /usr/lib32/libxcb.so.1 \
+  /usr/lib32/libz.so.1 \
+  CMakeFiles/client.dir/src/client/client_main.cpp.o
+
+
+CMakeFiles/client.dir/src/client/client_main.cpp.o:
+
+/usr/lib32/libxcb.so.1:
+
+/usr/lib32/libXext.so.6:
+
+/usr/lib32/libz.so.1:
+
+/usr/lib/libudev.so.1:
+
+/usr/lib/libm.so.6:
+
+/usr/lib/libgraphite2.so.3:
+
+/usr/lib/libglib-2.0.so.0:
+
+/usr/lib/libfreetype.so.6:
+
+/usr/lib/libcap.so.2:
+
+/usr/lib/libc_nonshared.a:
+
+/usr/lib/libc.so.6:
+
+/usr/lib/libbrotlidec.so.1:
+
+/usr/lib/libXrender.so.1:
+
+/usr/lib/libmvec.so.1:
+
+/usr/lib/libXrandr.so.2:
+
+/usr/lib/libXi.so.6:
+
+/usr/lib/libXfixes.so.3:
+
+/usr/lib/libXext.so.6:
+
+/usr/lib/libXdmcp.so.6:
+
+/usr/lib/libX11.so.6:
+
+/usr/lib/ld-linux-x86-64.so.2:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o:
+
+/usr/lib/libsfml-network.so:
+
+/usr/lib/libsfml-graphics.so:
+
+/usr/lib/libm.so:
+
+/usr/lib/libgcc_s.so.1:
+
+/usr/lib/crti.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdint.h:
 
@@ -379,6 +490,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/wctype.h:
 
 /usr/include/sched.h:
+
+/usr/lib/libstdc++.so:
 
 /usr/include/locale.h:
 
@@ -466,9 +579,13 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/cstdlib:
 
+/usr/lib/libsfml-system.so:
+
 /usr/include/c++/15.2.1/cstdio:
 
 /usr/include/c++/15.2.1/cstdint:
+
+/usr/lib/libgcc_s.so:
 
 /usr/include/c++/15.2.1/cstddef:
 
@@ -496,6 +613,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/bits/unordered_map.h:
 
+/usr/lib/libc.so:
+
 /usr/include/bits/pthreadtypes.h:
 
 /usr/include/SFML/Window/Vulkan.hpp:
@@ -509,6 +628,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/bits/timex.h:
 
 /usr/include/SFML/Graphics/PrimitiveType.hpp:
+
+/usr/lib32/libbrotlidec.so.1:
 
 /usr/include/bits/byteswap.h:
 
@@ -552,6 +673,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/bits/floatn-common.h:
 
+/usr/lib/libharfbuzz.so.0:
+
 /usr/include/c++/15.2.1/bits/cpp_type_traits.h:
 
 /usr/include/c++/15.2.1/limits:
@@ -569,6 +692,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/c++/15.2.1/bits/exception_defines.h:
 
 /usr/include/SFML/Window/Mouse.hpp:
+
+/usr/lib32/libX11.so.6:
 
 /usr/include/SFML/System/Time.inl:
 
@@ -593,6 +718,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/SFML/Window/Event.hpp:
 
 /usr/include/SFML/System/String.inl:
+
+/usr/lib/libbrotlicommon.so.1:
 
 /usr/include/wchar.h:
 
@@ -642,6 +769,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/bits/locale.h:
 
+/usr/lib/libpcre2-8.so.0:
+
 /usr/include/SFML/Graphics/StencilMode.hpp:
 
 /usr/include/c++/15.2.1/bits/postypes.h:
@@ -672,6 +801,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/bits/fs_fwd.h:
 
+/usr/lib/crtn.o:
+
 /usr/include/c++/15.2.1/bits/functional_hash.h:
 
 /usr/include/c++/15.2.1/bits/stl_relops.h:
@@ -681,6 +812,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/bits/time64.h:
 
 /usr/include/c++/15.2.1/array:
+
+/usr/lib32/libXau.so.6:
 
 /usr/include/SFML/System/Vector3.inl:
 
@@ -710,11 +843,15 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/bits/types/__mbstate_t.h:
 
+/usr/lib/Scrt1.o:
+
 /usr/include/SFML/Graphics/Drawable.hpp:
 
 /usr/include/SFML/Window/Event.inl:
 
 /usr/include/SFML/Graphics/RenderStates.hpp:
+
+/usr/lib32/libXdmcp.so.6:
 
 /usr/include/SFML/System/MemoryInputStream.hpp:
 
@@ -728,6 +865,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/bits/node_handle.h:
 
+/usr/lib/libpng16.so.16:
+
 /usr/include/c++/15.2.1/bits/refwrap.h:
 
 /usr/include/bits/cpu-set.h:
@@ -739,6 +878,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/SFML/Network/TcpSocket.hpp:
 
 /usr/include/SFML/Network/Http.hpp:
+
+/usr/lib32/libbz2.so.1.0:
 
 /usr/include/SFML/Graphics/BlendMode.hpp:
 
@@ -763,6 +904,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/bits/pthread_stack_min-dynamic.h:
 
 /usr/include/SFML/Graphics/Glsl.hpp:
+
+/usr/lib/libxcb.so.1:
 
 /usr/include/bits/endian.h:
 
@@ -789,6 +932,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/SFML/Graphics/View.hpp:
 
 /usr/include/c++/15.2.1/bits/allocated_ptr.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o:
 
 /usr/include/SFML/Window/Cursor.hpp:
 
@@ -848,11 +993,15 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/SFML/System/FileInputStream.hpp:
 
+/usr/lib32/libbrotlicommon.so.1:
+
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stddef.h:
 
 /usr/include/asm-generic/int-ll64.h:
 
 /usr/include/SFML/Window/WindowBase.hpp:
+
+/usr/lib/libbz2.so.1.0:
 
 /usr/include/SFML/System/InputStream.hpp:
 
@@ -940,6 +1089,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/bits/memoryfwd.h:
 
+/usr/lib/libz.so.1:
+
 /usr/include/bits/uintn-identity.h:
 
 /usr/include/c++/15.2.1/bits/locale_facets_nonio.h:
@@ -990,7 +1141,11 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 
 /usr/include/c++/15.2.1/bits/cxxabi_init_exception.h:
 
+/usr/lib/libXau.so.6:
+
 /usr/include/c++/15.2.1/bits/erase_if.h:
+
+/usr/lib/libsfml-window.so:
 
 /usr/include/c++/15.2.1/debug/assertions.h:
 
@@ -1081,6 +1236,8 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: /home/naqui/project/unctrl/s
 /usr/include/c++/15.2.1/bits/stl_multimap.h:
 
 /usr/include/c++/15.2.1/bits/stl_raw_storage_iter.h:
+
+/usr/lib/libXcursor.so.1:
 
 /usr/include/c++/15.2.1/bits/stl_tree.h:
 

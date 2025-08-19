@@ -9,7 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/naqui/project/unctrl/src/server/server_main.cpp" "CMakeFiles/server.dir/src/server/server_main.cpp.o" "gcc" "CMakeFiles/server.dir/src/server/server_main.cpp.o.d"
-  "" "server" "gcc" "CMakeFiles/server.dir/link.d"
+  "" "bin/server" "gcc" "CMakeFiles/server.dir/link.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
