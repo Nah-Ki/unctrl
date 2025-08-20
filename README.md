@@ -94,10 +94,3 @@ Developed by [**Nah-Ki**](https://github.com/Nah-Ki)
 
 ---
 
-```
-
-This gives a **professional structure** while leaving room to expand.  
-
-👉 Do you want me to also add a **GIF/placeholder screenshot section** for when you have visuals? That usually makes game READMEs pop.
-```
-
