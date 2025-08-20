@@ -266,4 +266,5 @@ CMakeFiles/client.dir/src/client/client_main.cpp.o: \
  /usr/include/SFML/Network/Packet.hpp \
  /usr/include/SFML/Network/SocketSelector.hpp \
  /usr/include/SFML/Network/TcpListener.hpp \
- /usr/include/SFML/Network/UdpSocket.hpp /usr/include/c++/15.2.1/iostream
+ /usr/include/SFML/Network/UdpSocket.hpp /usr/include/c++/15.2.1/iostream \
+ /home/naqui/project/unctrl/src/client/../shared/packets.hpp
